@@ -1,0 +1,17 @@
+# Kiki Assistant 依赖列表
+# 安装：pip install -r requirements.txt
+
+# 唤醒词
+pvporcupine>=3.0.0
+
+# 音频
+pyaudio>=0.2.13
+
+# 语音识别
+faster-whisper>=1.0.0
+
+# HTTP 请求
+requests>=2.31.0
+
+# 注：tkinter 是 Python 标准库，无需单独安装
+# 注：Ollama 请单独安装，见 README.md
