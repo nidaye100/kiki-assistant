@@ -68,7 +68,7 @@ kiki-assistant/
 ### 第一步：克隆项目
 
 ```bash
-git clone https://github.com/你的用户名/kiki-assistant.git
+git clone https://github.com/nidaye100/kiki-assistant.git
 cd kiki-assistant
 ```
 
